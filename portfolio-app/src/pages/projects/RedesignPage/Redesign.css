@@ -1,0 +1,277 @@
+.redesign {
+    
+    padding-top: 5%;
+    background-color: #e0e0e0;
+    width: 100%;
+    min-height: 100vh;
+    text-align: left;
+  }
+
+.redesign p {
+  margin: 2%;
+}
+
+.redesign  a {
+    color: #565656;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+.redesign  a:hover {
+  color:#ffffff ;
+  background-color: transparent;
+  text-decoration: none;
+  }
+
+.redesign .header{
+    font-family: 'HomePlanetBB-Regular';
+    color: #565656;
+    font-size: 65px;
+    padding-top: 1em;
+    text-align: center;
+  }
+  
+.redesign .side-header {
+  margin-top: 7%;
+}
+  .redesign .sub-header {
+    font-family:'HomePlanetBB-Regular';
+    color:#565656;
+    font-size: 40px;
+    font-weight: 7px;
+    align-items: flex-start;
+    margin-top: 5%;
+    padding-top: 3%;
+    padding-left:4%;
+    text-align: left;
+  }
+  .redesign .text {
+    font-family: 'Hind-Regular';
+    color:#565656;
+    font-size: 1.2em;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top:2%;
+    padding-bottom:2%;
+    text-align: left;
+    margin:0px;
+  }
+  .redesign .list {
+    font-family: 'Hind-Regular';
+    color:#565656;
+    font-size: 1.1em;
+    padding-left: 6%;
+    padding-top:1%;
+    text-align: left;
+  }
+  .redesign .box {
+    border:2px solid #565656; 
+    border-radius: 5px;
+    margin-left: 4%;
+    margin-top: 5%;
+    margin-right: 2%;
+    padding: 1%;
+  
+  }
+  .redesign .section-header {
+    font-family:'Hind-Regular';
+    color: #565656;
+    font-size: 1.5em;
+    padding-left: 3%;
+    padding-top:3%;
+    padding-bottom:0.5%;
+    text-align: left;
+  }
+  
+  .redesign .highlight-text {
+    color:#539DA0;
+  }
+  .redesign .navbar-brand, .nav-item {
+    font-family:'Hind-Regular';
+    color: #565656;
+    font-size: large;
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+  
+  .redesign .image {
+    padding-left: 3%;
+    padding-top: 4%;
+    flex: 1;
+    margin-left:1%;
+    display: block;
+    width: 750px;
+    height: 450px;
+  
+  }
+  .redesign .desktop-image {
+    padding-left: 5%;
+    padding-top: 2%;
+    flex: 1;
+    height: 60%;
+    width: 70%;
+    padding-bottom: 1%;
+  }
+
+  .redesign .display-image {
+    padding: 2%;
+    max-width: 100%;
+    flex-wrap: wrap;
+    display: flex;
+  }
+  .redesign .box-white-solid {
+  border:3px solid white; 
+  border-radius: 5px;
+  margin-left: 5%;
+  margin-top: 2%;
+  margin-right: 2%;
+  padding-right: 2%;
+  background-color: white;
+
+}
+
+.redesign .box-white-border {
+  border:2px solid white; 
+    border-radius: 5px;
+    margin-left: 4%;
+    margin-top: 5%;
+    margin-right: 2%;
+    padding: 1%;
+
+}
+.redesign .box-last{
+  border:2px solid white; 
+  border-radius: 5px;
+  margin-left: 4%;
+  margin-top: 5%;
+  margin-right: 2%;
+  padding: 1%;
+}
+
+  
+  .redesign .big-div {
+    display: flex;
+    justify-content: space-between;
+    /* width: 50%; */
+  }
+  .redesign .flex-child-right {
+    flex: 1;
+    /* border: 2px solid blueviolet; */
+    margin: 10px;
+    
+  }
+  .redesign .flex-child-left{
+   
+    /* flex: 1; */
+    padding-top: 13%;
+    padding-left: 0%;
+    text-align: left;
+    margin-left: 0%;
+    margin-top: 10%;
+    width: 30%;
+    flex: 0.15;
+    height: 40vh;
+    font-family:'Hind-Regular';
+    padding-top: 15px;
+    padding-left: 3em;
+    color: #565656;
+    font-size: larger;
+    border-right: 2px solid #565656;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 17%;
+  }
+  
+  .redesign .vl {
+    border-left: 2px solid #565656;
+    height: 900px;;
+    position: absolute;
+    left: 17%;
+    margin-left: -3px;
+    margin-top: -30px;
+    top: 20px;
+  }
+
+
+  .redesign .table-bordered th, .table-bordered td , .table-bordered thead{
+ 
+    border: 1px solid #2d2d2d;
+  }
+  
+  .redesign table.table-bordered > thead > tr > th{
+    border:1px solid #2d2d2d;
+  }
+  
+  .redesign .table {
+    margin-left: 1%;
+  }
+
+  .redesign .style-guide {
+    margin-left: 27%;
+    margin-bottom: 2%;
+  }
+
+  .redesign .btn {
+    margin-left: 5%;
+    margin-top:2%;
+  }
+  
+  .redesign .btn-outline-success {
+    color: white !important ;
+    background-color: #565656;
+    border-color: #55755f;
+  
+  }
+  
+  .redesign .btn-outline-success:hover {
+    color: #565656 !important;
+    background-color: white;
+    border-color: #55755f;
+  
+  }
+  
+  .redesign  button a:hover {
+    color: #565656;
+  }
+
+  .redesign .btn a {
+    color: white;
+  }
+
+  .redesign .center-image {
+    padding: 2%;
+    max-width: 100%;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+  }
+
+
+  .image-prototype{
+    padding-left: 5%;
+    padding-top: 2%;
+    /* flex: 100%; */
+    height: 55%;
+    width: 77%;
+    padding-bottom: 2%;
+    /* align-items: center;
+    align-content: center;
+    justify-content: center; */
+    object-fit: scale-down;
+  
+  
+  }
+  
+  .image-prototype-desktop{
+    padding-left: 5%;
+    padding-top: 2%;
+    /* flex: 50%; */
+    height: 80%;
+    width: 98%;
+    padding-bottom: 2%;
+    object-fit: scale-down;
+  
+  
+  
+  }
